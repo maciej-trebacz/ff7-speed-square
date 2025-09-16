@@ -1,7 +1,7 @@
 import { QMainWindow, QIcon, QWidget, QStatusBar, QBoxLayout, QGridLayout, QLineEdit, FlexLayout, Direction, QGroupBox, QCheckBox, QRadioButton, QLabel, QSlider, Orientation, TickPosition, AlignmentFlag, QPushButton } from '@nodegui/nodegui';
 import path from 'path'
 
-const VERSION = '1.0.2';
+const VERSION = '1.0.3';
 export const SLIDER_MAX_VALUE = 1000;
 
 export interface MainWindow {
